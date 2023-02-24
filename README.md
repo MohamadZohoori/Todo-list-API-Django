@@ -1,6 +1,6 @@
 # Todo list API in Django
 
-In this part of the django tutorials, you will learn how to create a restful API using 
+In this repository, you will learn how to create a restful API using 
 django rest framework. A restful API is a the key element of the larger projects in django,
 where frontend and backend are separated. For example you want to develop an application 
 using django and Vue.js. In this case, to develop the backend you will need to create a RESTful
